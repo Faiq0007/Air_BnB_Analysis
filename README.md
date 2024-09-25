@@ -60,5 +60,4 @@ To install dependencies, use the following command:
 ```bash
 pip install pandas seaborn matplotlib
 
-## Contact
-For further inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/faiq-syed-7494b5197/).
+
